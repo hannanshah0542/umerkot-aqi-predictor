@@ -28,7 +28,7 @@ from dotenv import load_dotenv
 from huggingface_hub import HfApi
 
 # ---- CONFIG ----
-DATA_FOLDER = "E:/AQI/Data"
+DATA_FOLDER = "Data"
 CITY_NAME = "Umerkot"
 USERNAME = "ALIkjjnskdjc"  # your HuggingFace username
 REPO_NAME = "umerkot-aqi-features"  # dataset name in HF
